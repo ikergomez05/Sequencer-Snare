@@ -6,5 +6,6 @@ For the final project of the second year of higher grade, we have decided to mak
 
 - The schematics and PCBs were made using the "Proteus 8 Professional" software.
 - To check the correct functioning of the project, we tested with a Breadboard.
+- The designs of the top plates were made using "QCAD" and "Adobe Illustrator".
 
 To get started, go to the [wiki](https://github.com/ikergomez05/Sequencer-Snare/wiki) to learn more.
