@@ -4,13 +4,13 @@ For the final project of the second year of higher grade, we have decided to mak
 
 <img src="https://www.ericasynths.lv/media/Edu_DIY_SEQ.jpg" alt="Sequencer" width="300"> <img src="https://www.ericasynths.lv/media/snaredrumwebshop.jpeg" alt="Snare Drum" width="300">
 
-Made with 🛠️
+🛠️ Made with
 ---
 - [Proteus 8 Professional](https://www.labcenter.com/) - Schematics and PCBs
 - [QCAD](https://www.qcad.org/en/) - Designing top plates with precision
 - [Adobe Illustrator](https://www.adobe.com/es/products/illustrator/campaign/pricing.html) - Preparing for printing top plate designs
 
-Wiki 📖
+📖 Wiki
 ---
 
 To get started, go to the [wiki](https://github.com/ikergomez05/Sequencer-Snare/wiki) to learn more.
