@@ -6,7 +6,7 @@ For the final project of the second year of higher grade, we have decided to mak
 
 Made with 🛠️
 ---
-- [Proteus 8 Proffesional](https://www.labcenter.com/) - Schematics and PCBs
+- [Proteus 8 Professional](https://www.labcenter.com/) - Schematics and PCBs
 - [QCAD](https://www.qcad.org/en/) - Designing top plates with precision
 - [Adobe Illustrator](https://www.adobe.com/es/products/illustrator/campaign/pricing.html) - Preparing for printing top plate designs
 
