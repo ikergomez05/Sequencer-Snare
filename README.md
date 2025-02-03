@@ -12,5 +12,10 @@ For the final project of the second year of higher grade, we have decided to mak
 
 📖 Wiki
 ---
-
 To get started, go to the [wiki](https://github.com/ikergomez05/Sequencer-Snare/wiki) to learn more.
+
+✒️ Authors
+---
+- Aitor Arreche Alfonso - aitor.arreche81@ikasle.db.eus
+- Eneko Gomez Frechilla - eneko.gomez05@ikasle.db.eus
+- Iker Gomez Gomez - iker.gomez05@ikasle.db.eus
