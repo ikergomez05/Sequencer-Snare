@@ -27,7 +27,7 @@ To get started, go to the [wiki](https://github.com/ikergomez05/Sequencer-Snare/
 - Ion Bea Etxaniz - ion.bea04@ikasle.db.eus
 
 **Special thanks to:**
-- Erica Synths - [Website](https://www.ericasynths.lv/) - [YouTube](https://www.youtube.com/channel/UCfs2QrfWJ2x4ozPg7aF70XQ) - [Twitter](https://x.com/ericasynths) - [Facebook](https://www.facebook.com/ericasynths/)
-- Moritz Klein - [Patreon](https://www.patreon.com/moritzklein) - [YouTube](https://www.youtube.com/channel/UCzfW6SlNEyxmAPtdr3n-_Og) - [Instagram](https://www.instagram.com/moritzklein0/#) - [Discord](https://discord.com/invite/KCwpyAsFpb)
+- Erica Synths - [Website](https://www.ericasynths.lv/) - [YouTube](https://www.youtube.com/user/EricaSynths) - [Twitter](https://x.com/ericasynths) - [Facebook](https://www.facebook.com/ericasynths/)
+- Moritz Klein - [Patreon](https://www.patreon.com/moritzklein) - [YouTube](https://www.youtube.com/@MoritzKlein0) - [Instagram](https://www.instagram.com/moritzklein0/#) - [Discord](https://discord.com/invite/KCwpyAsFpb)
 
 They have developed a series of educational DIY kits under the brand name "mki x es.EDU".
