@@ -17,7 +17,7 @@ To get started, go to the [wiki](https://github.com/ikergomez05/Sequencer-Snare/
 👥 Credits
 ---
 **Group responsible for the Sequencer and Snare Drum modules:**
-- Aitor Arreche Alfonso - aitor.arreche81@ikasle.db.eus
+- Aitor Arretxe Alfonso - aitor.arreche81@ikasle.db.eus
 - Eneko Gomez Frechilla - eneko.gomez05@ikasle.db.eus
 - Iker Gomez Gomez - iker.gomez05@ikasle.db.eus
 
